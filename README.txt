@@ -1,4 +1,4 @@
-Requirements: 
+
 
 1.Download JDK#8 or higher version in your local machine (from https://www.oracle.com/java/technologies/javase-downloads.html)
 
